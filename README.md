@@ -13,6 +13,7 @@
 [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.oracle.com/java/) 
 [![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/) 
+[![Rust](https://img.icons8.com/color/48/000000/rust.png)](https://www.rust-lang.org/)
 
 ### Technologies
 
