@@ -77,7 +77,13 @@
 
 [![Discord](https://img.icons8.com/?size=48&id=2mIgusGquJFz&format=png&color=000000)](https://discord.com/users/Yolke#6345) 
 [![LinkedIn](https://img.icons8.com/?size=48&id=13930&format=png&color=000000)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-gago-b9615a1a4/) 
-[![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/@jeremygago7801) 
 <a href="https://www.hackerrank.com/@jeremygago7801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jeremygago7801" height="30" width="40" /></a>
 
 - 📧 [jeremygago@hotmail.fr](mailto:jeremygago@hotmail.fr)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yolke" />
+</a>
+<a href="https://github.com/anuraghazra/Yolke">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
