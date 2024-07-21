@@ -81,9 +81,7 @@
 
 - 📧 [jeremygago@hotmail.fr](mailto:jeremygago@hotmail.fr)
 
-<a href="https://github.com/Yolke/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yolke" />
-</a>
+
 <a href="https://github.com/Yolke">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yolke&layout=compact&langs_count=8&card_width=320" />
 </a>
