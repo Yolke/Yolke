@@ -1,6 +1,6 @@
 # About Me
 
-#### I'm passionate about development and always eager to learn new technologies. 🧑‍💻 Currently pursuing an engineering degree with a focus on practical experience through an apprenticeship. Currently learning Django. Open to freelance opportunities and collaborations feel free to reach out!
+#### I'm passionate about development and always eager to learn new technologies. 🧑‍💻 Currently pursuing an engineering degree with a focus on practical experience through an apprenticeship. Currently self-studying Django. Open to freelance opportunities and collaborations feel free to reach out!
 
 ## Skills
 
