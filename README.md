@@ -48,7 +48,7 @@
 
   <!-- Design and Data Tools -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="48" height="48"/>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_3MFhCzXcwI3GWIDTsWJg2HXDTG7TwGovA&s" alt="fastAPI" width="48" height="48">
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_3MFhCzXcwI3GWIDTsWJg2HXDTG7TwGovA&s](https://svgmix.com/uploads/skillicons/151df7-fastapi.svg)" alt="fastAPI" width="48" height="48">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48"/>
   </a>
