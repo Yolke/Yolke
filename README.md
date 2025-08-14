@@ -11,9 +11,6 @@
 [![C#](https://i.imgur.com/P5GZxv3.png)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
 [![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/) 
 [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.oracle.com/java/) 
-[![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/) 
-[![Rust](https://img.icons8.com/?size=48&id=XWesbnSd4AUa&format=png&color=000000)](https://www.rust-lang.org/)
 
 ### Technologies
 
